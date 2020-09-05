@@ -1,0 +1,18 @@
+spring:
+  profiles: default
+  application:
+    name: ShiroDemo
+
+
+  http:
+    multipart:
+      max-file-size: 10MB
+#数据库配置
+  #datasource:
+  #driverClassName: com.mysql.jdbc.Driver
+  #password: h80TLA0uFfXhJ1fS
+  #url: jdbc:mysql://10.53.4.20:3306/qms_dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false&zeroDateTimeBehavior=convertToNull&autoReconnect=true&tinyInt1isBit=false
+  #username: lt_qms_dev_rw_te
+
+
+
